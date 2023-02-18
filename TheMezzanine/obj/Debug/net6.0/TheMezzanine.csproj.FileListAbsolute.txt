@@ -1,0 +1,15 @@
+C:\Users\lukee\OneDrive\Desktop\Console Apps\TheMezzanine\TheMezzanine\bin\Debug\net6.0\TheMezzanine.exe
+C:\Users\lukee\OneDrive\Desktop\Console Apps\TheMezzanine\TheMezzanine\bin\Debug\net6.0\TheMezzanine.deps.json
+C:\Users\lukee\OneDrive\Desktop\Console Apps\TheMezzanine\TheMezzanine\bin\Debug\net6.0\TheMezzanine.runtimeconfig.json
+C:\Users\lukee\OneDrive\Desktop\Console Apps\TheMezzanine\TheMezzanine\bin\Debug\net6.0\TheMezzanine.dll
+C:\Users\lukee\OneDrive\Desktop\Console Apps\TheMezzanine\TheMezzanine\bin\Debug\net6.0\TheMezzanine.pdb
+C:\Users\lukee\OneDrive\Desktop\Console Apps\TheMezzanine\TheMezzanine\obj\Debug\net6.0\TheMezzanine.csproj.AssemblyReference.cache
+C:\Users\lukee\OneDrive\Desktop\Console Apps\TheMezzanine\TheMezzanine\obj\Debug\net6.0\TheMezzanine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukee\OneDrive\Desktop\Console Apps\TheMezzanine\TheMezzanine\obj\Debug\net6.0\TheMezzanine.AssemblyInfoInputs.cache
+C:\Users\lukee\OneDrive\Desktop\Console Apps\TheMezzanine\TheMezzanine\obj\Debug\net6.0\TheMezzanine.AssemblyInfo.cs
+C:\Users\lukee\OneDrive\Desktop\Console Apps\TheMezzanine\TheMezzanine\obj\Debug\net6.0\TheMezzanine.csproj.CoreCompileInputs.cache
+C:\Users\lukee\OneDrive\Desktop\Console Apps\TheMezzanine\TheMezzanine\obj\Debug\net6.0\TheMezzanine.dll
+C:\Users\lukee\OneDrive\Desktop\Console Apps\TheMezzanine\TheMezzanine\obj\Debug\net6.0\refint\TheMezzanine.dll
+C:\Users\lukee\OneDrive\Desktop\Console Apps\TheMezzanine\TheMezzanine\obj\Debug\net6.0\TheMezzanine.pdb
+C:\Users\lukee\OneDrive\Desktop\Console Apps\TheMezzanine\TheMezzanine\obj\Debug\net6.0\TheMezzanine.genruntimeconfig.cache
+C:\Users\lukee\OneDrive\Desktop\Console Apps\TheMezzanine\TheMezzanine\obj\Debug\net6.0\ref\TheMezzanine.dll
